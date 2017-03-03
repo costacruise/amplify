@@ -2,6 +2,9 @@
 
 *A Jekyll html theme in the vague style of Medium.com built using Google AMP*
 
+example: https://cdn.ampproject.org/c/s/ageitgey.github.io/amplify/2016/03/08/example-post.html
+
+
 Google's [Accelerated Mobile Pages Project](https://www.ampproject.org/)
 (a.k.a. "Google AMP" or Google ⚡) is an open-source project that defines rules
 for creating websites that load nearly instantly even on mobile devices with
